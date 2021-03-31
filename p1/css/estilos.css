@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #3a3d47;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.container{
+    width: 1200px;
+    background: white;
+    margin: 10px auto;
+}
+.superiot{
+    background: #1551a1;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    width: 300px;
+    padding: 35px;
+}
+/*estilos para menu opciones*/
+.menu{
+    float: left;
+    padding: 50px;
+}
+.opciones li{
+    float: left;
+    list-style: none;
+}
+.opciones li a{
+    color: white;
+    padding: 20px;
+    text-decoration:none;
+    border: 1px solid white;
+}
+.opciones li a:hover{
+    background: #0d356a;
+}
+
+/*Estilos para el cuerpo*/
+.cuerpo{
+    overflow: hidden;
+    color: white;
+}
+.caja{
+    float:left;
+    width: 330px;
+    margin: 45px;
+}
+
+.subtitulo{
+    background: #1551a1;
+}
+.servicios{
+    color: white;
+    text-align-last: center;
+    padding: 15px 0;
+}
+.footer{
+    float: left;
+    margin: 455px;
+    width: 200px;
+}
+}
